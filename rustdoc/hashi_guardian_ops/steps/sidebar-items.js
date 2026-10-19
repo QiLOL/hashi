@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["configs","inspect","kp_keys"]};

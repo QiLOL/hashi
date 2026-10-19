@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Role","Slot"],"fn":["export","is_hex","project_name","pulumi","pulumi_pin","pulumi_version"],"struct":["Bucket","Deployment","Export","Manifest","SlotView","Stack"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CURRENT_FOR"],"fn":["proxy_info","relay_info","require_reached","slot_info"],"struct":["GuardianInfo","Lifecycle","ProxyInfo","Reached"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["confirm"],"struct":["Terminal","Unchanged"],"trait":["Ask"]};
